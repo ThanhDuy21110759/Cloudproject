@@ -2,6 +2,7 @@ package ecommerce.business;
 
 import ecommerce.data.ProductDB;
 import jakarta.persistence.*;
+import java.io.Serializable;
 
 import java.sql.*;
 import java.util.*;
@@ -9,7 +10,7 @@ import java.util.*;
 
 @Entity
 @Table(name = "product", schema = "ecommerce")
-public class ProductEntity {
+public class ProductEntity implements Serializable {
     private static final Object lock = new Object();
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
