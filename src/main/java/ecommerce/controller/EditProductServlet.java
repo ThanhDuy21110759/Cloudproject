@@ -8,10 +8,11 @@ import ecommerce.data.CustomerDB;
 import ecommerce.data.InventoryDB;
 import ecommerce.data.ProductDB;
 import ecommerce.data.ShopDB;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.MultipartConfig;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.annotation.MultipartConfig;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
+
 
 import java.io.File;
 import java.io.IOException;
