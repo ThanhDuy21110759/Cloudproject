@@ -3,9 +3,9 @@ package ecommerce.controller;
 import java.io.*;
 import java.util.*;
 import ecommerce.business.CustomerEntity;
-import jakarta.servlet.*;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
 
 @WebServlet(name = "AccountServlet", value = "/accountServlet")
 public class AccountServlet extends HttpServlet {
