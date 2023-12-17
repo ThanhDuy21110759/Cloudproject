@@ -2,6 +2,7 @@ package ecommerce.business;
 
 import ecommerce.data.CustomerDB;
 import ecommerce.data.ProductDB;
+import java.io.Serializable;
 import jakarta.persistence.*;
 import java.util.List;
 import java.sql.Timestamp;
