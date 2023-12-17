@@ -1,4 +1,4 @@
-# Cloud Computing project
+# Cloud Computing project - Group 5
 
 ### Team member:
 - Hồ Thanh Duy - 21110759
