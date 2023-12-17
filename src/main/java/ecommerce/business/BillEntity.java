@@ -8,7 +8,7 @@ import java.sql.Timestamp;
 
 @Entity
 @Table(name = "bill", schema = "ecommerce")
-public class BillEntity {
+public class BillEntity implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     @Column(name = "BILLID")
