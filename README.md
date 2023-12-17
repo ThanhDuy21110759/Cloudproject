@@ -3,7 +3,7 @@
 ### Technology:
 - Front end: HTML, CSS, Js
 - Back end: JSP, Servlet
-- Database: JPA (Mysql)
+- Database: JPA (MySQL)
 - Deployment: Google App Engine, Cloud SQL
 
 ### Team member:
