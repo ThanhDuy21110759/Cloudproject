@@ -1,6 +1,6 @@
 # Cloud Computing project - Group 5
 
-###Technology:
+### Technology:
 - Front end: HTML, CSS, Js
 - Back end: JSP, Servlet
 - Database: JPA (Mysql)
