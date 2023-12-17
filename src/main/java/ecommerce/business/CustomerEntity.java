@@ -1,10 +1,11 @@
 package ecommerce.business;
 
 import jakarta.persistence.*;
+import java.io.Serializable;
 
 @Entity
 @Table(name = "customer", schema = "ecommerce")
-public class CustomerEntity {
+public class CustomerEntity implements Serializable{
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     @Column(name = "CUSTOMERID")
