@@ -10,9 +10,9 @@ import ecommerce.business.LineitemsEntity;
 import ecommerce.business.ProductEntity;
 import ecommerce.data.CustomerDB;
 import ecommerce.data.ProductDB;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
 
 
 @WebServlet(name = "CartServlet")
