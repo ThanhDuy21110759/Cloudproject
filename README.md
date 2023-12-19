@@ -1,6 +1,7 @@
 # Cloud Computing project - Group 5
 
-Project
+E-Commerce Website is main with many function includes:
+- Shopcart: contain LineItems(Product, Amount) when Customer adding to cart
 
 ### Technology:
 - Front end: HTML, CSS, Js
