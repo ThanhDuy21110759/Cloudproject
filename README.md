@@ -20,4 +20,4 @@ E-Commerce Website is project with functions includes:
 - Nguyễn Phước Trường - 21110809
 - Trần Trọng Nhân - 21110790
   
-Copyright (c) 2023 by Group5, Final Project Cloud Computing 23-24
+<b>Copyright(c)</b> 2023 by <b>Group5</b>, Final Project <b>CLOUD COMPUTING</b> 23-24
