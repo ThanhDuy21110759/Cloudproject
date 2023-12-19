@@ -1,5 +1,7 @@
 # Cloud Computing project - Group 5
 
+Project
+
 ### Technology:
 - Front end: HTML, CSS, Js
 - Back end: JSP, Servlet
