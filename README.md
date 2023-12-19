@@ -1,6 +1,6 @@
 # Cloud Computing project - Group 5
 
-E-Commerce Website is main with many function includes:
+E-Commerce Website is project with functions includes:
 - Shopcart: contain LineItems(Product, Amount) when Customer adding to Cart
 - Statistics: for week, month and Best seller (base on Bill from Shop)
 - Filter, Search Product
