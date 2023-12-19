@@ -4,7 +4,7 @@
 - Front end: HTML, CSS, Js
 - Back end: JSP, Servlet
 - Database: JPA (MySQL)
-- Deployment: Google App Engine, Cloud SQL
+- Deployment: Google App Engine, Cloud SQL (MySQL)
 
 ### Team member:
 - Hồ Thanh Duy - 21110759
