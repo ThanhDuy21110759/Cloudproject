@@ -19,5 +19,7 @@ E-Commerce Website is project with functions includes:
 - Hồ Thanh Duy - 21110759
 - Nguyễn Phước Trường - 21110809
 - Trần Trọng Nhân - 21110790
-  
+
+Video demo (Youtube): https://www.youtube.com/watch?v=UlKbcMqyb6c
+Detail Project (Drive): https://drive.google.com/drive/folders/1jgMQGU2ta-WXqPid1MlvUXOzteU--Y8T
 <b>Copyright(c)</b> 2023 by <b>Group5</b>, Final Project <b>CLOUD COMPUTING</b> 23-24
