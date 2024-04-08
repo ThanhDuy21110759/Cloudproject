@@ -1,5 +1,4 @@
-# Cloud Computing project - Group 5
-
+# Cloud Computing project
 E-Commerce Website is project with functions includes:
 - Shopcart: contain LineItems(Product, Amount) when Customer adding to Cart
 - Statistics: for week, month and Best seller (base on Bill from Shop)
@@ -15,12 +14,8 @@ E-Commerce Website is project with functions includes:
 - Database: JPA (MySQL)
 - Deployment: Google App Engine service, Cloud SQL (DB Engine: MySQL)
 
-### Team member:
-- Hồ Thanh Duy - 21110759
-- Nguyễn Phước Trường - 21110809
-- Trần Trọng Nhân - 21110790
 
-<b>Copyright(c)</b> 2023 by <b>Group5</b>, Final Project <b>CLOUD COMPUTING</b> 23-24
+<b>Copyright(c)</b> 2023 by <b>Thanh Duy</b>, Final Project <b>CLOUD COMPUTING</b> 23-24
 
 Video demo (Youtube): https://www.youtube.com/watch?v=UlKbcMqyb6c
 
